@@ -34,3 +34,8 @@
 |--|--|
 | [쇠막대기](https://www.acmicpc.net/problem/10799) | 정동규 |
 
+## 활동 기록  
+
+| 날짜 | 내용 |
+|--|--|
+| 2/7 | [과제](https://www.acmicpc.net/problem/2493) 풀이 공유& [코드리뷰 문제](https://www.acmicpc.net/problem/2504) 풀기|
