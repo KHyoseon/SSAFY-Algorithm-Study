@@ -31,6 +31,6 @@
   
 ## 심심할 때 푸는 추천 문제
 |문제  | 추천인 |
-|[쇠막대기(https://www.acmicpc.net/problem/10799)]|정동규|
+|[쇠막대기]](https://www.acmicpc.net/problem/10799)|정동규|
 |  |  |
 
