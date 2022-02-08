@@ -35,6 +35,7 @@
 | [쇠막대기](https://www.acmicpc.net/problem/10799) | 정동규 | 괄호의 벽은 높다.... |
 | [조커 찾기](https://www.acmicpc.net/problem/24393) | 정동규 | |
 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | 김지혜 |    |
+| [문자열 폭발](https://www.acmicpc.net/problem/9935) | 정동규 |    |
 
 ## 활동 기록  
 
