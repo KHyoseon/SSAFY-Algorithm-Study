@@ -30,13 +30,16 @@
 | 2/28 |  |
   
 ## 심심할 때 푸는 추천 문제
-|문제  | 추천인 |
-|--|--|
-| [쇠막대기](https://www.acmicpc.net/problem/10799) | 정동규 |
-| [조커 찾기](https://www.acmicpc.net/problem/24393) | 정동규 |
+|문제  | 추천인 | 수근수근|
+|--|--|--|
+| [쇠막대기](https://www.acmicpc.net/problem/10799) | 정동규 | 괄호의 벽은 높다.... |
+| [조커 찾기](https://www.acmicpc.net/problem/24393) | 정동규 | |
+| [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | 김지혜 |    |
 
 ## 활동 기록  
 
 | 날짜 | 내용 |
 |--|--|
-| 2/7 | [과제](https://www.acmicpc.net/problem/2493) 풀이 공유& [코드리뷰 문제](https://www.acmicpc.net/problem/2504) 풀기|
+| 2/7 | [과제](https://www.acmicpc.net/problem/2493) 풀이 공유 & [코드리뷰 문제](https://www.acmicpc.net/problem/2504) 풀기 & 랜각코|
+| 2/8 | [코드리뷰 문제](https://www.acmicpc.net/problem/2504) 풀이 공유 & 랜각코|
+
