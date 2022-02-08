@@ -3,8 +3,8 @@ package ws0208;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
+import java.io.StringReader;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
@@ -18,24 +18,55 @@ public class Solution1225 {
 	
 		#1 3 9 4 9 4 4 3 0
 	*/
+	// static String str = "1\r\n" + 
+	// 		"2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647\r\n" + 
+	// 		"2\r\n" + 
+	// 		"2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647\r\n" + 
+	// 		"3\r\n" + 
+	// 		"2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647\r\n" + 
+	// 		"4\r\n" + 
+	// 		"2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647\r\n" + 
+	// 		"5\r\n" + 
+	// 		"2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647\r\n" + 
+	// 		"6\r\n" + 
+	// 		"2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647\r\n" + 
+	// 		"7\r\n" + 
+	// 		"2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647\r\n" + 
+	// 		"8\r\n" + 
+	// 		"2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647\r\n" + 
+	// 		"9\r\n" + 
+	// 		"2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647\r\n" + 
+	// 		"10\r\n" + 
+	// 		"2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647 2147483647";
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		// BufferedReader br = new BufferedReader(new StringReader(str));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		
 		Queue<Integer> q;
-		String input;
 		StringTokenizer st;
 		StringBuilder sb = new StringBuilder();
 		
 		for(int t=0; t<10; t++){
-			input = br.readLine();
-			int tc = Integer.parseInt(input);
+			int tc = Integer.parseInt(br.readLine());
 			sb.append("#"+tc+" ");
 			
 			st = new StringTokenizer(br.readLine());
 			q = new LinkedList<>();
-			for(int i=0; i<8; i++)
-				q.offer(Integer.parseInt(st.nextToken()));
+			
+			int MIN = Integer.MAX_VALUE;
+			int inputs[] = new int[8];
+			for(int i=0; i<8; i++) {
+				inputs[i] = Integer.parseInt(st.nextToken());
+				MIN = Math.min(MIN, inputs[i]);
+			}
+			
+			int div = MIN/15;
+			
+			for(int j=0; j<8; j++) {
+				inputs[j] -= (div-1)*15;
+				q.offer(inputs[j]);
+			}
 			
 			int tmp, i=0;
 			while(true) {
