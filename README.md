@@ -33,6 +33,7 @@
 |문제  | 추천인 |
 |--|--|
 | [쇠막대기](https://www.acmicpc.net/problem/10799) | 정동규 |
+| [조커 찾기](https://www.acmicpc.net/problem/24393) | 정동규 |
 
 ## 활동 기록  
 
