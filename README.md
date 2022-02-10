@@ -16,7 +16,7 @@
 | 날짜 |문제  |
 |--|--|
 |2/7  | [괄호의 값](https://www.acmicpc.net/problem/2504) |
-| 2/8 |  |
+| 2/8 | [괄호의 값](https://www.acmicpc.net/problem/2504), [탑](https://www.acmicpc.net/problem/2493), [암호생성기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD) |
 | 2/9 |  |
 | 2/10 |  |
 | 2/14 |  |
