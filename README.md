@@ -17,8 +17,8 @@
 |--|--|
 |2/7  | [괄호의 값](https://www.acmicpc.net/problem/2504) |
 | 2/8 | [괄호의 값](https://www.acmicpc.net/problem/2504), [탑](https://www.acmicpc.net/problem/2493), [암호생성기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD) |
-| 2/9 | [IM 대비 문제 모음](https://www.acmicpc.net/workbook/view/8399) |
-| 2/10 | [IM 대비 문제 모음](https://www.acmicpc.net/workbook/view/8399) |
+| 2/9 | [IM 대비 문제 모음](https://www.acmicpc.net/group/workbook/view/13659/41950) |
+| 2/10 | [IM 대비 문제 모음](https://www.acmicpc.net/group/workbook/view/13659/41950) |
 | 2/14 |  |
 | 2/15 |  |
 | 2/16 |  |
@@ -43,6 +43,6 @@
 |--|--|
 | 2/7 | [과제](https://www.acmicpc.net/problem/2493) 풀이 공유 & [코드리뷰 문제](https://www.acmicpc.net/problem/2504) 풀기 & 랜각코|
 | 2/8 | [코드리뷰 문제](https://www.acmicpc.net/problem/2504) 풀이 공유 & 랜각코|
-| 2/9 | [IM 대비 문제 모음](https://www.acmicpc.net/workbook/view/8399) 풀기 & 랜각코|
-| 2/10 | [IM 대비 문제 모음](https://www.acmicpc.net/workbook/view/8399) 풀이 공유 & 랜각코|
+| 2/9 | [IM 대비 문제 모음](https://www.acmicpc.net/group/workbook/view/13659/41950) 풀기 & 랜각코|
+| 2/10 | [IM 대비 문제 모음](https://www.acmicpc.net/group/workbook/view/13659/41950) 풀이 공유 & 랜각코|
 
