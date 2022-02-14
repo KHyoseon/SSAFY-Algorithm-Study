@@ -43,4 +43,6 @@
 |--|--|
 | 2/7 | [과제](https://www.acmicpc.net/problem/2493) 풀이 공유 & [코드리뷰 문제](https://www.acmicpc.net/problem/2504) 풀기 & 랜각코|
 | 2/8 | [코드리뷰 문제](https://www.acmicpc.net/problem/2504) 풀이 공유 & 랜각코|
+| 2/9 | [IM 대비 문제 모음](https://www.acmicpc.net/workbook/view/8399) 풀기 & 랜각코|
+| 2/10 | [IM 대비 문제 모음](https://www.acmicpc.net/workbook/view/8399) 풀이 공유 & 랜각코|
 
