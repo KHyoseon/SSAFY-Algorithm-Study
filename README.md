@@ -45,4 +45,5 @@
 | 2/8 | [코드리뷰 문제](https://www.acmicpc.net/problem/2504) 풀이 공유 & 랜각코|
 | 2/9 | [IM 대비 문제 모음](https://www.acmicpc.net/group/workbook/view/13659/41950) 풀기 & 랜각코|
 | 2/10 | [IM 대비 문제 모음](https://www.acmicpc.net/group/workbook/view/13659/41950) 풀이 공유 & 랜각코|
+| 2/14 | [알고리즘 과목평가] 풀이 공유 & 랜각코|
 
