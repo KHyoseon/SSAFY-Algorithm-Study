@@ -22,7 +22,7 @@
 | 2/14 | 알고리즘 과목평가 1번~3번 |
 | 2/15 | [Z](https://www.acmicpc.net/problem/1074), [설탕배달](https://www.acmicpc.net/problem/2839) |
 | 2/16 |  |
-| 2/17 |  |
+| 2/17 | [빵집](https://www.acmicpc.net/problem/3109), [의석이의 세로로 말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO) |
 | 2/21 |  |
 | 2/22 |  |
 | 2/23 |  |
@@ -38,6 +38,7 @@
 | [문자열 폭발](https://www.acmicpc.net/problem/9935) | 정동규 |    |
 | [알고리즘 수업 - 너비 우선 탐색 모음](https://www.acmicpc.net/workbook/view/10251) | 정동규 |    |
 | [알고리즘 수업 - 깊이 우선 탐색 모음](https://www.acmicpc.net/workbook/view/10367) | 정동규 |    |
+| [N과 M 모음(백트래킹 연습)](https://www.acmicpc.net/workbook/view/2052) | 정동규 |    |
 
 ## 활동 기록  
 
@@ -50,4 +51,4 @@
 | 2/14 | 알고리즘 과목평가 풀이 공유 & 랜각코|
 | 2/15 | 알고리즘 풀이 공유 & 랜각코|
 | 2/16 | 랜각코|
-
+| 2/17 | [빵집](https://www.acmicpc.net/problem/3109) & [의석이의 세로로 말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO) & 랜각코|
