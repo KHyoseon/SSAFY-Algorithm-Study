@@ -32,7 +32,7 @@
 ## 심심할 때 푸는 추천 문제
 |문제  | 추천인 | 수근수근|
 |--|--|--|
-| [쇠막대기](https://www.acmicpc.net/problem/10799) | 정동규 | 괄호의 벽은 높다...., SWEA |
+| [쇠막대기](https://www.acmicpc.net/problem/10799) | 정동규 | 괄호의 벽은 높다...., IM대비 문제중에 SWEA에 같은 문제가 있네용 |
 | [조커 찾기](https://www.acmicpc.net/problem/24393) | 정동규 |    |
 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | 김지혜 |    |
 | [문자열 폭발](https://www.acmicpc.net/problem/9935) | 정동규 |    |
