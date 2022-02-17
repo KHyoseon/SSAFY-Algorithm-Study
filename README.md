@@ -36,6 +36,8 @@
 | [조커 찾기](https://www.acmicpc.net/problem/24393) | 정동규 |    |
 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | 김지혜 |    |
 | [문자열 폭발](https://www.acmicpc.net/problem/9935) | 정동규 |    |
+| [알고리즘 수업 - 너비 우선 탐색 모음](https://www.acmicpc.net/workbook/view/10251) | 정동규 |    |
+| [알고리즘 수업 - 깊이 우선 탐색 모음](https://www.acmicpc.net/workbook/view/10367) | 정동규 |    |
 
 ## 활동 기록  
 
