@@ -51,4 +51,4 @@
 | 2/14 | 알고리즘 과목평가 풀이 공유 & 랜각코|
 | 2/15 | 알고리즘 풀이 공유 & 랜각코|
 | 2/16 | 랜각코|
-| 2/17 | [빵집](https://www.acmicpc.net/problem/3109) & [의석이의 세로로 말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO) & 랜각코|
+| 2/17 | [빵집](https://www.acmicpc.net/problem/3109) & [의석이의 세로로 말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO) 풀이 공유 & 랜각코|
