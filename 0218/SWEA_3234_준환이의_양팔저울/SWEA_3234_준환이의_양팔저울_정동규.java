@@ -63,6 +63,7 @@ public class SWEA_3234_준환이의_양팔저울 {
         
         /*
         if(left - right >= sum) {
+            // Math.pow는 시간을 많이 잡아먹으니 사용에 주의(정확한 이유는 모르겠음...)
             res += factorial[weights.length - count] * Math.pow(2, weights.length - count);
             return;
         }
