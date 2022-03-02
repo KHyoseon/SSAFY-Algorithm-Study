@@ -21,12 +21,12 @@
 | 2/10 | [IM 대비 문제 모음](https://www.acmicpc.net/group/workbook/view/13659/41950) |
 | 2/14 | 알고리즘 과목평가 1번~3번 |
 | 2/15 | [Z](https://www.acmicpc.net/problem/1074), [설탕배달](https://www.acmicpc.net/problem/2839) |
-| 2/16 |  |
+| 2/16 | [IM 대비 문제 모음](https://www.acmicpc.net/group/workbook/view/13659/41950) |
 | 2/17 | [빵집](https://www.acmicpc.net/problem/3109), [의석이의 세로로 말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO) |
-| 2/21 |  |
-| 2/22 |  |
-| 2/23 |  |
-| 2/24 |  |
+| 2/21 | 디버깅 과목평가 |
+| 2/22 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) |
+| 2/23 | [서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr) |
+| 2/24 | [아기상어](https://www.acmicpc.net/problem/16236), [치킨배달](https://www.acmicpc.net/problem/15686), [적록색약](https://www.acmicpc.net/problem/10026) |
 | 2/28 |  |
   
 ## 심심할 때 푸는 추천 문제
@@ -52,3 +52,8 @@
 | 2/15 | 알고리즘 풀이 공유 & 랜각코|
 | 2/16 | 랜각코|
 | 2/17 | [빵집](https://www.acmicpc.net/problem/3109) & [의석이의 세로로 말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO) 풀이 공유 & 랜각코|
+| 2/21 | 디버깅 과목평가 풀이 공유 & 랜각코|
+| 2/22 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) 풀이 공유 & 랜각코|
+| 2/23 | [서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr) & 랜각코|
+| 2/24 | [아기상어](https://www.acmicpc.net/problem/16236), [치킨배달](https://www.acmicpc.net/problem/15686), [적록색약](https://www.acmicpc.net/problem/10026) 풀이 공유 & 랜각코|
+| 2/28 |  |
